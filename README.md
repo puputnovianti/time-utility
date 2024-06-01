@@ -13,6 +13,7 @@ Convert between different time zones.
 Check if a year is a leap year.
 Calculate the next occurrence of recurring events based on intervals.
 
-# Installation
+## Installation
+```sh
 go get github.com/puputnovianti/timeutilitypackage
 

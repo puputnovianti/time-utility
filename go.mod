@@ -1,4 +1,4 @@
-module github.com/puputnovianti/timeutility
+module github.com/puputnovianti/time-utility
 
 go 1.21.9
 

@@ -15,5 +15,5 @@ Calculate the next occurrence of recurring events based on intervals.
 
 ## Installation
 ```sh
-go get github.com/puputnovianti/timeutilitypackage
+go get github.com/puputnovianti/time-utility
 

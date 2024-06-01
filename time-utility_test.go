@@ -26,7 +26,7 @@ func TestNextWeekend(t *testing.T) {
 }
 
 func TestRecurringEvent(t *testing.T) {
-	result, err := timeutilitypackage.RecurringEvent(time.Now(), "3 day")
+	result, err := timeutilitypackage.RecurringEvent(time.Now(), "3 week")
 	if err != nil {
 		assert.Nil(t, err)
 	}

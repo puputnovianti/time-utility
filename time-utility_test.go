@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	timeutilitypackage "github.com/puputnovianti/timeutility"
+	timeutilitypackage "github.com/puputnovianti/time-utility"
 	"github.com/stretchr/testify/assert"
 )
 
